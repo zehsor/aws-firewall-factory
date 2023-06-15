@@ -2,6 +2,19 @@
 
 ## Released
 
+## 3.2.3
+### Fixed
+- Bump eslint from 8.41.0 to 8.42.0
+- Bump @typescript-eslint/eslint-plugin from 4.4.0 to 5.59.11
+- Bump @typescript-eslint/parser from 4.4.0 to 5.59.11
+- Bump eslint-plugin-import from 2.24.2 to 2.27.5
+- Bump jest from 26.4.2 to 29.5.0
+- Bump ts-jest from 26.2.0 to 29.1.0
+- pinned dependencies to avoid conflicting peer dependencies
+- fix eslint issues
+
+### Added
+- Added Linting command `lint` to npm scripts which can be run via `npm run lint`◊
 ## 3.2.2
 ### Fixed
 - Bump @aws-sdk/client-pricing from 3.332.0 to 3.341.0
